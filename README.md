@@ -1,3 +1,4 @@
 # Hello, world!
 
-I study in Netology from January 2024
+I study in Netology from January'24
+
